@@ -3,10 +3,10 @@
 I am a current student working towards a degree in Computer Networking & Security at Long Beach City College
 
 Interests:
-:white_small_square: Hack the Box
-:white_small_square: Lock Picking
-:white_small_square: Ethical Hacking
-:white_small_square: Hobby IoT
+~ Hack the Box
+~ Lock Picking
+~ Ethical Hacking
+~ Hobby IoT
 
 I enjoy travelling and hiking, consequently I am always listening to music or playing Pokemon Go ~ 5025 8856 0405
 
