@@ -3,7 +3,7 @@
 I am a current student working towards a degree in Computer Networking & Security at Long Beach City College
 
 Interests:
-~ Hack the Box
+Hack the Box
 ~ Lock Picking
 ~ Ethical Hacking
 ~ Hobby IoT
